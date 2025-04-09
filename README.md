@@ -1,1 +1,1 @@
-# block-blasts.github.io
+# block-blast.github.io
